@@ -1,3 +1,5 @@
+// Para sabermos alguma informação específica do objeto podemos utilizar a Notação Ponto
+
 console.log(Math.ceil(6.3))
 
 const obj1 = {}
